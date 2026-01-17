@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gupta"
+  given-names: "Mridun"
+  orcid: "https://orcid.org/0009-0004-7262-811X"
+title: "Aakriti 3.0 - The Shape of Innovation"
+version: aakriti-3.0-v1.0.0
+doi: 10.5281/zenodo.18278432
+date-released: 2026-01-17
+url: "https://github.com/mridun-gupta-codes/aakriti"
